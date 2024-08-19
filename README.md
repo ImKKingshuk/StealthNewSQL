@@ -15,6 +15,7 @@
 - 🎯 **Smart Enumeration**: Enumerate databases, tables, and indices intelligently, targeting specific DBMS types.
 - 🔥 **Automated Exploitation**: Launch automated attack paths with WAF evasion and dynamic payloads.
 - 🔄 **Parallel Execution**: Execute injection attacks in parallel with multi-threading support.
+- 🌐 **Proxy and Tor Integration**: Full proxy support, including Tor integration for anonymous scanning.
 - 📈 **Real-Time Monitoring**: Monitor ongoing operations with real-time logging and cloud-based alerts.
 - 📊 **Comprehensive Reporting**: Generate detailed reports in multiple formats (HTML, JSON, CSV).
 - 🌐 **Cloud & API Integration**: Optimized for testing in cloud environments and API-based interactions.
@@ -30,6 +31,7 @@
 - Bash-compatible environment
 - `curl`, `jq`, `dig` installed on your system
 - Optional: `nmap` or other vulnerability scanning tools for enhanced features
+- Optional: Proxy or `Tor` for anonymous scanning
 
 ## How to Use
 
