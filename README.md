@@ -60,4 +60,4 @@ This tool is intended for legitimate security testing purposes only. Unauthorize
 
 Contributions are welcome! Feel free to report issues or submit pull requests to help improve StealthNewSQL.
 
-### 😊 Happy NewSQL Injection Testing with StealthNewSQL! 😊
+### 😊 Happy NewSQL Injection with StealthNewSQL! 😊
